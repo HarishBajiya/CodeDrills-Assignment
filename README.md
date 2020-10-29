@@ -29,11 +29,11 @@ npm run lint
 ```
 ### Some Screenshots 
 
-![Test Image 1](assets/ss1.jpg)
+![Test Image 1](src/assets/ss1.jpg)
 ### This is the main landing page
-![Test Image 2](assets/ss2.jpg)
+![Test Image 2](src/assets/ss2.jpg)
 ### This is the Solution page
-![Test Image 3](assets/ss3.jpg)
+![Test Image 3](src/assets/ss3.jpg)
 ### This is the filtered page 
 
 
